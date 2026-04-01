@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Simulation d'exécution du Test
-        run: echo "Test en cours"
+        run: echo "Test2 en cours"
